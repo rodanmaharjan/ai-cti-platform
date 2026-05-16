@@ -17,4 +17,4 @@ This project is a simple AI-assisted cybersecurity dashboard developed using Pyt
 - GitHub
 
 ## Purpose
-The purpose of this project is to demonstrate an AI-assisted workflow for cybersecurity analysis and reporting.
+The purpose of this project is to demonstrate an AI-assisted workflow for cybersecurity analysis and reporting.e
