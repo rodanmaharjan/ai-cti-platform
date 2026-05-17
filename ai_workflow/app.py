@@ -157,10 +157,8 @@ if st.button("Analyse IOCs"):
         # Display styled dataframe on Streamlit dashboard
         st.dataframe(styled_df, use_container_width=True)
 
-
         # Convert dataframe to CSV format for downloading
         csv = df.to_csv(index=False).encode("utf-8")
-
 
         # Button to download CSV report
         st.download_button(
